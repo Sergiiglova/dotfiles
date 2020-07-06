@@ -1,5 +1,5 @@
 tap "github/bootstrap"
-tap "github/packages"
+# tap "github/packages"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-versions"
@@ -74,7 +74,7 @@ cask "visual-studio-code"
 cask "vmware-fusion"
 cask "vnc-viewer"
 cask "whatsapp"
-cask "zoom-in"
+cask "zoomin"
 cask "zoomus"
 # mas "1Blocker", id: 1107421413
 # mas "GarageBand", id: 682658836
